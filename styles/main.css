@@ -683,6 +683,10 @@
     border: 1.5px solid #cfcfcf;
 }
 
+.shuffle span {
+    font-size: 10px;
+}
+
 .shuffle:hover {
     border: 1.5px solid #999999;
 }
