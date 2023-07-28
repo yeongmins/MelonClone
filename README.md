@@ -9,7 +9,7 @@
 
 - **멜론 홈페이지 URL** : https://www.melon.com/index.htm
 
-- **과제 URL** : 
+- **과제 URL** : [yeongmin-melonclone.netlify.app](https://yeongmin-melonclone.netlify.app/)
 
 ***
 
@@ -19,7 +19,6 @@
 - [ ] 실제 사이트 주소 명시
 - [ ] 과정에서 사용한 프로젝트 폴더,파일 KDT0_JangYeongMin 브랜치에 업로드
 - [ ] netlify를 사용하여 배포 후 클론 사이트 주소 명시
-<br>
 
 ### 📌 선택 요구사항 체크리스트
 
