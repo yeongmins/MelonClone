@@ -31,14 +31,14 @@ ul {
 }
 
 .footer_line {
+    width: 1048px;
     display: block;
-    width: 100%;
     border-top: 1px solid #c9c9c9;
 }
 
 .footer_menu_line {
+    width: 1048px;
     display: block;
-    width: 100%;
     border-top: 1px solid #f2f2f2;
     position: relative;
     z-index: 1;

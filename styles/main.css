@@ -684,6 +684,8 @@
 }
 
 .shuffle span {
+    width: 40px;
+    height: 14px;
     font-size: 10px;
 }
 
